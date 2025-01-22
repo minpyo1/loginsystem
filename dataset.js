@@ -32,7 +32,10 @@ d1.set_img(0,{imgtitle:"요구사항 구현 세부사항",imgurl:"https://drive.
 
 d1.set_content("목표 시스템 개발을 위한 적정한 언어를 선정하고 라이선스와 향후 지원사항을 참고하여 결정한다.")
 d1.set_img(1,{imgtitle:"개발언어선정",imgurl:"https://drive.google.com/file/d/1ECQZ6OabI92nZSuh8PG3V7YBAGPUQZZY/view?usp=sharing",imglog:"자바언어기반 스프링프레임워크, html5, memberData file",sourceurl:"https://docs.google.com/document/d/1Vqkes5Kz1KstHVvT3UT47xK8DgUgM10QSa8GdDKrORs/edit?usp=sharing"})//이미지타이틀
-d1.set_img(1,{imgtitle:"스프링프레임워크",imgurl:"https://drive.google.com/file/d/1HRUQhj2Tk6AzIW_NSRD59wGUAduJYTmW/view?usp=drive_link",imglog:"오픈소스 스프링프레임워크 v4.221",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"스프링프레임워크",imgurl:"https://drive.google.com/file/d/1FuCZk_Ifny_IoYfcWv084-T5bJ3HczVC/view?usp=sharing",imglog:"오픈소스 스프링프레임워크 v4.221",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"html5(VSCODE)",imgurl:"https://drive.google.com/file/d/1tGNps36lfRW96K792Y6RKvrufMiIn-rE/view?usp=sharing",imglog:"오픈소스 VSCODE v1.96.4",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"HeidiSQL",imgurl:"https://drive.google.com/file/d/1Vc5YXNp7LWHg45vKrDa82gZInUlDAEJX/view?usp=sharing",imglog:"HeidiSQL v12.8.0.6908",sourceurl:""})//이미지타이틀
+d1.set_img(1,{imgtitle:"memberData",imgurl:"https://drive.google.com/file/d/1-cqkKz8FNP6qZa5wZpXUqRmHuQmaxF1Y/view?usp=sharing",imglog:"Member Table",sourceurl:""})//이미지타이틀
 
 
 d1.set_content("코딩개발도구와 테스트 및 빌드, 패키징, 배포등 개발 전반에 대한 필요한 환경을 설정한다.")

@@ -61,7 +61,7 @@ d2.set_img(0,{imgtitle:"공통모듈 분리대상",imgurl:"https://drive.google.
 d2.set_img(0,{imgtitle:"공통함수호출",imgurl:"https://drive.google.com/file/d/1IEjHC_ISw9BQ4iM5PNTQWO0mB1YWDKK4/view?usp=drive_link",imglog:"기존의 긴 코드를 대체하여 함수 호출 코드로 줄임",sourceurl:""})//이미지타이틀
 
 d2.set_content("테스트케이스를 작성합니다.")
-d2.set_img(1,{imgtitle:"공통모듈 테스트 작성",imgurl:"https://drive.google.com/file/d/1vMWlJq6Kxhtedjf1uGIoYsDKilxHag4R/view?usp=drive_link",imglog:"공통모듈이 잘 작동하는지 테스트 페이지 작성",sourceurl:""})//이미지타이틀
+d2.set_img(1,{imgtitle:"공통모듈 테스트 작성",imgurl:"https://drive.google.com/file/d/1vMWlJq6Kxhtedjf1uGIoYsDKilxHag4R/view?usp=drive_link",imglog:"공통모듈이 잘 작동하는지 테스트 페이지 작성",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/newpage.html"})//이미지타이틀
 
 d2.set_content("단위테스트를 작성합니다.")
 d2.set_img(2,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1VseuH99d6TBfZJpoqr9AVrj-yhPcBGXh/view?usp=drive_link",imglog:"테스트페이지",sourceurl:""})//이미지타이틀

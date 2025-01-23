@@ -58,16 +58,15 @@ let d2 = new DataSet("공통모듈구현")//메인타이틀
 d2.set_content("공통모듈구현을 작성합니다.")//서브 타이틀
 d2.set_img(0,{imgtitle:"공통모듈구현",imgurl:"https://drive.google.com/file/d/1LfqUaf79QmucBW6lpRhgcmN88DGy63gy/view?usp=drive_link",imglog:"작성된 공통모듈",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/common.js"})//이미지타이틀
 d2.set_img(0,{imgtitle:"공통모듈 분리대상",imgurl:"https://drive.google.com/file/d/1QYJ8q1nmSMCwW5jm0KLTJHTv80sJv0wx/view?usp=drive_link",imglog:"로그인과 로그아웃 기능이 길게 작성되어있음",sourceurl:""})//이미지타이틀
-d2.set_img(0,{imgtitle:"공통모듈 테스트 작성",imgurl:"https://drive.google.com/file/d/1vMWlJq6Kxhtedjf1uGIoYsDKilxHag4R/view?usp=drive_link",imglog:"공통모듈이 잘 작동하는지 테스트 페이지 작성",sourceurl:""})//이미지타이틀
 d2.set_img(0,{imgtitle:"공통함수호출",imgurl:"https://drive.google.com/file/d/1IEjHC_ISw9BQ4iM5PNTQWO0mB1YWDKK4/view?usp=drive_link",imglog:"기존의 긴 코드를 대체하여 함수 호출 코드로 줄임",sourceurl:""})//이미지타이틀
-d2.set_img(0,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1VseuH99d6TBfZJpoqr9AVrj-yhPcBGXh/view?usp=drive_link",imglog:"테스트페이지",sourceurl:""})//이미지타이틀
-d2.set_img(0,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1yRKUQT--9XpXtAT60Ti96_5uHmdCqpXQ/view?usp=drive_link",imglog:"회원가입된 아이디 입력",sourceurl:""})//이미지타이틀
-d2.set_img(0,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1AGQ1cp7iqhJumVtx8g7HOW7nkT_BD7Aa/view?usp=drive_link",imglog:"잘 작동하는 걸 알 수 있음",sourceurl:""})//이미지타이틀
-
 
 d2.set_content("테스트케이스를 작성합니다.")
-d2.set_content("단위테스트를 작성합니다.")
+d2.set_img(1,{imgtitle:"공통모듈 테스트 작성",imgurl:"https://drive.google.com/file/d/1vMWlJq6Kxhtedjf1uGIoYsDKilxHag4R/view?usp=drive_link",imglog:"공통모듈이 잘 작동하는지 테스트 페이지 작성",sourceurl:""})//이미지타이틀
 
+d2.set_content("단위테스트를 작성합니다.")
+d2.set_img(2,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1VseuH99d6TBfZJpoqr9AVrj-yhPcBGXh/view?usp=drive_link",imglog:"테스트페이지",sourceurl:""})//이미지타이틀
+d2.set_img(2,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1yRKUQT--9XpXtAT60Ti96_5uHmdCqpXQ/view?usp=drive_link",imglog:"회원가입된 아이디 입력",sourceurl:""})//이미지타이틀
+d2.set_img(2,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1AGQ1cp7iqhJumVtx8g7HOW7nkT_BD7Aa/view?usp=drive_link",imglog:"잘 작동하는 걸 알 수 있음",sourceurl:""})//이미지타이틀
 d2.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
 data_sets.push(d2)
 

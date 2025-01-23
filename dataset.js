@@ -43,8 +43,8 @@ d1.set_img(2,{imgtitle:"개발환경 구축 명세",imgurl:"https://drive.google
 d1.set_img(2,{imgtitle:"개발도구 Spring for Eclipse",imgurl:"https://drive.google.com/file/d/1iDKoYlXX7UYgFBZDs5zB3B9u3FmLeUdR/view?usp=drive_link",imglog:"자바 스프링 서버단 개발을 위한 도구",sourceurl:""})//이미지타이틀
 d1.set_img(2,{imgtitle:"빌드도구 gradle",imgurl:"https://drive.google.com/file/d/1q9TOzxwvdOgRKUnbSm1CBwcNx_hAU4rr/view?usp=drive_link",imglog:"프로그램 빌드 및 외부 라이브러리 디펜더시를 위한 도구",sourceurl:""})//이미지타이틀
 d1.set_img(2,{imgtitle:"형상관리도구 git",imgurl:"https://drive.google.com/file/d/1oz5vxKarY5GbvT1USATr5ikeMaW2Zk2r/view?usp=drive_link",imglog:"프로그램의 전반적인 개발협업 및 버전관를 위한 도구",sourceurl:""})//이미지타이틀
-d1.set_img(2,{imgtitle:"테스트도구 Postman ",imgurl:"https://drive.google.com/file/d/1hKhNwiY_JiR_5SaWvjfxUCXSxVvVY7nX/view?usp=drive_link",imglog:"프로그램의 전반적인 개발협업 및 버전관를 위한 도구",sourceurl:""})//이미지타이틀
-d1.set_img(2,{imgtitle:"패키징 도구 WAR",imgurl:"https://drive.google.com/file/d/1oz5vxKarY5GbvT1USATr5ikeMaW2Zk2r/view?usp=drive_link",imglog:"프로그램의 전반적인 개발협업 및 버전관를 위한 도구",sourceurl:""})//이미지타이틀
+d1.set_img(2,{imgtitle:"테스트도구 Postman ",imgurl:"https://drive.google.com/file/d/1hKhNwiY_JiR_5SaWvjfxUCXSxVvVY7nX/view?usp=drive_link",imglog:"API 테스트 및 개발을 지원하는 도구로, 요청과 응답을 시뮬레이션하며 팀 간 협업을 위한 도구",sourceurl:""})//이미지타이틀
+d1.set_img(2,{imgtitle:"패키징 도구 WAR",imgurl:"hhttps://drive.google.com/file/d/1a5XQA_BC5ymjF-KF_xzBm5cqhAcI0c8i/view?usp=drive_link",imglog:"Java 기반 웹 애플리케이션을 패키징하여 배포할 수 있도록 돕는 도구",sourceurl:""})//이미지타이틀
 
 
 

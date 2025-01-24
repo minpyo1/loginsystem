@@ -21,7 +21,7 @@ public class MemberServiceTests {
 	MemberService ms;
 	@BeforeEach
 	public void setVariable() {
-		rightId = new String[] {"aaaa","abcde",};
+		rightId = new String[] {"aaaa","abcde"};
 		wrongId = new String[] {"aaa","ab","a"};
 		rightPw = new String[] {"123456","214#aa1"};
 		wrongPw = new String[] {"12345","214#","#11a"};

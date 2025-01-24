@@ -100,7 +100,10 @@ d3.set_img(0,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d
 
 
 d3.set_content("회원로그아웃구현")
-
+d3.set_img(2,{imgtitle:"로그아웃 ",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"로그아웃 버튼",sourceurl:""})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 요청",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 요청",sourceurl:""})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 문구출력",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 문구",sourceurl:""})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 완료",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 완료",sourceurl:""})//이미지타이틀
 
 
 

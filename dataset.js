@@ -94,7 +94,7 @@ d3.set_img(0,{imgtitle:"실제회원가입",imgurl:"https://drive.google.com/fil
 d3.set_content("회원로그인구현")
 d3.set_img(1,{imgtitle:"로그인 페이지",imgurl:"https://drive.google.com/file/d/1Mm-IjqwqpCUU3AP-Ob7rPE7pIeJNPFo6/view?usp=drive_link",imglog:"로그인 정보 입력",sourceurl:""})//이미지타이틀
 d3.set_img(1,{imgtitle:"로그인 요청",imgurl:"https://drive.google.com/file/d/1vAiCF5OXcbSbtts0W2_DAiA40NamCKjb/view?usp=drive_link",imglog:"아이디 비밀번로 입력받아 요청",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
-d3.set_img(2,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"mapper",sourceurl:""})//이미지타이틀
+d3.set_img(2,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1WzF0sFlSHgCGHeNxRmSoLtdhRcLMN_Yk/view?usp=drive_link",imglog:"mapper",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/config/memberMapper.xml"})//이미지타이틀
 d3.set_img(1,{imgtitle:"서버에 로그인 요청",imgurl:"https://drive.google.com/file/d/1Yf4TPd1kxsslIQk_QzbCM-17VeB4W1DU/view?usp=drive_link",imglog:"DB서버에 로그인 요청",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/common.js"})//이미지타이틀
 d3.set_img(1,{imgtitle:"로그인 완료",imgurl:"https://drive.google.com/file/d/1cXVG99LjD-3RhJ5ipKKITKI5tVzjMI3j/view?usp=drive_link",imglog:"로그인 성공 문자 받아오면 로그인 성공",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
 d3.set_img(0,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d/1V8vpGPBZ1A1Hw1srg0KxNwl1zznxpgT2/view?usp=drive_link",imglog:"로그인 성공",sourceurl:""})//이미지타이틀
@@ -102,19 +102,19 @@ d3.set_img(0,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d
 
 d3.set_content("회원로그아웃구현")
 d3.set_img(2,{imgtitle:"로그아웃 ",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"로그아웃 버튼",sourceurl:""})//이미지타이틀
-d3.set_img(2,{imgtitle:"로그아웃 요청",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 요청",sourceurl:""})//이미지타이틀
-d3.set_img(2,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"mapper",sourceurl:""})//이미지타이틀
-d3.set_img(2,{imgtitle:"로그아웃 문구출력",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 문구",sourceurl:""})//이미지타이틀
-d3.set_img(2,{imgtitle:"로그아웃 완료",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 완료",sourceurl:""})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 요청",imgurl:"https://drive.google.com/file/d/1qGeil2oOC5gKKJlqlrSpSMJa9iUzKxLu/view?usp=drive_link",imglog:"로그아웃 요청",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
+d3.set_img(2,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1WzF0sFlSHgCGHeNxRmSoLtdhRcLMN_Yk/view?usp=drive_link",imglog:"mapper",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/config/memberMapper.xml"})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 문구출력",imgurl:"https://drive.google.com/file/d/1bIuO9-Si6VgBpI1fGjSPyHOYIqBZJ39A/view?usp=drive_link",imglog:"로그아웃 문구",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})//이미지타이틀
+d3.set_img(2,{imgtitle:"로그아웃 완료",imgurl:"https://drive.google.com/file/d/1bIuO9-Si6VgBpI1fGjSPyHOYIqBZJ39A/view?usp=drive_link",imglog:"로그아웃 완료",sourceurl:""})//이미지타이틀
 
 
 
 d3.set_content("회원리스트출력구현")
 d3.set_img(3,{imgtitle:"회원리스트",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"회원 리스트버튼",sourceurl:""})//이미지타이틀
-d3.set_img(3,{imgtitle:"회원리스트 요청",imgurl:"https://drive.google.com/file/d/1aeL6XiqUxnslawNkIgYAXkHv03PCisJ9/view?usp=drive_link",imglog:"회원 리스트 요청이 서버로 전송되었으며, 응답을 대기 중",sourceurl:""})//이미지타이틀
-d3.set_img(3,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1s5lG9GhkqPZQnNQQIdpkYNfBwA1L-3BA/view?usp=drive_link",imglog:"mapper",sourceurl:""})//이미지타이틀
-d3.set_img(3,{imgtitle:"리스트 받아오기",imgurl:"https://drive.google.com/file/d/1vwSfCLZMJBKcrcnyASu_tFVQk3WPjTCm/view?usp=drive_link",imglog:"로그인 후 서버로부터 회원 리스트를 성공적으로 받아옴",sourceurl:""})//이미지타이틀
-d3.set_img(3,{imgtitle:"회원리스트 출력",imgurl:"https://drive.google.com/file/d/10n-_mVDpvBh9bWSZswN74ELeH2jM1adk/view?usp=drive_link",imglog:"회원 리스트가 화면에 출력되었으며, 데이터가 정상적으로 표시",sourceurl:""})//이미지타이틀
+d3.set_img(3,{imgtitle:"회원리스트 요청",imgurl:"https://drive.google.com/file/d/1aeL6XiqUxnslawNkIgYAXkHv03PCisJ9/view?usp=drive_link",imglog:"회원 리스트 요청이 서버로 전송되었으며, 응답을 대기 중",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/dao/MemberDAOImpl.java"})//이미지타이틀
+d3.set_img(3,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1WzF0sFlSHgCGHeNxRmSoLtdhRcLMN_Yk/view?usp=drive_link",imglog:"mapper",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/config/memberMapper.xml"})//이미지타이틀
+d3.set_img(3,{imgtitle:"리스트 받아오기",imgurl:"https://drive.google.com/file/d/1vwSfCLZMJBKcrcnyASu_tFVQk3WPjTCm/view?usp=drive_link",imglog:"로그인 후 서버로부터 회원 리스트를 성공적으로 받아옴",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/dao/MemberDAO.java"})//이미지타이틀
+d3.set_img(3,{imgtitle:"회원리스트 출력",imgurl:"https://drive.google.com/file/d/10n-_mVDpvBh9bWSZswN74ELeH2jM1adk/view?usp=drive_link",imglog:"회원 리스트가 화면에 출력되었으며, 데이터가 정상적으로 표시",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
 d3.set_img(3,{imgtitle:"실제 회원리스트",imgurl:"https://drive.google.com/file/d/1FguxYQITOPQ-L_Lzxou1HDTL2CimCjv1/view?usp=drive_link",imglog:"회원의 실제 데이터를 기반으로 리스트가 성공적으로 렌더링",sourceurl:""})//이미지타이틀
 
 
@@ -125,11 +125,11 @@ data_sets.push(d3)
 let d4 = new DataSet("배치프로그램구현")//메인타이틀
 
 d4.set_content("배치스케줄구현")//서브타이틀
-d4.set_img(0,{imgtitle:"배치스케쥴구현",imgurl:"https://drive.google.com/file/d/19XnuXu100nHThmnuNv1xZB-Lp4ePEoAT/view?usp=drive_link",imglog:"배치 스케줄러가 정상적으로 설정되었으며, 주기적으로 실행",sourceurl:""})//이미지타이틀
+d4.set_img(0,{imgtitle:"배치스케쥴구현",imgurl:"https://drive.google.com/file/d/19XnuXu100nHThmnuNv1xZB-Lp4ePEoAT/view?usp=drive_link",imglog:"배치 스케줄러가 정상적으로 설정되었으며, 주기적으로 실행",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchSchedule.java"})//이미지타이틀
 
 d4.set_content("배치프로그램테스트 구현")
-d4.set_img(1,{imgtitle:"배치테스트 실행",imgurl:"https://drive.google.com/file/d/12TIDf5560TtSwDcmdWB7_uDdXmlo34HF/view?usp=drive_link",imglog:"배치 작업 테스트를 실행 중입니다",sourceurl:""})//이미지타이틀
-d4.set_img(1,{imgtitle:"배치테스트 완료",imgurl:"hhttps://drive.google.com/file/d/1gr4NRk4DFBy0a1fARj0S-i3HFidZKO05/view?usp=drive_link",imglog:"배치 작업 테스트가 성공적으로 완료되었으며, 모든 단계를 통과했음",sourceurl:""})//이미지타이틀
+d4.set_img(1,{imgtitle:"배치테스트 실행",imgurl:"https://drive.google.com/file/d/12TIDf5560TtSwDcmdWB7_uDdXmlo34HF/view?usp=drive_link",imglog:"배치 작업 테스트를 실행 중입니다",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/job/BatchConfiguration.java"})//이미지타이틀
+d4.set_img(1,{imgtitle:"배치테스트 완료",imgurl:"https://drive.google.com/file/d/1gr4NRk4DFBy0a1fARj0S-i3HFidZKO05/view?usp=drive_link",imglog:"배치 작업 테스트가 성공적으로 완료되었으며, 모든 단계를 통과했음",sourceurl:""})//이미지타이틀
 
 
 data_sets.push(d4)

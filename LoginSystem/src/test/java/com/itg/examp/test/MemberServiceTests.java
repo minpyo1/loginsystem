@@ -21,10 +21,10 @@ public class MemberServiceTests {
 	MemberService ms;
 	@BeforeEach
 	public void setVariable() {
-		rightId = new String[] {"aa","abcde","abcd","a@E3ool","bb#cc"};
-		wrongId = new String[] {"aaa","abc","aa","a#c","123"};
-		rightPw = new String[] {"123456","214#aa","aa#11aa","a@eegd","44AA@EE"};
-		wrongPw = new String[] {"1123677","214#a","#11aa","a@gd","AA@EE"};
+		rightId = new String[] {"aaaa","abcde",};
+		wrongId = new String[] {"aaa","ab","a"};
+		rightPw = new String[] {"123456","214#aa1"};
+		wrongPw = new String[] {"12345","214#","#11a"};
 	}
 	@Test
 	public void testPassword() {

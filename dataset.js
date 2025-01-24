@@ -65,15 +65,15 @@ d2.set_img(0,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/
 d2.set_img(0,{imgtitle:"공통모듈테스트",imgurl:"https://drive.google.com/file/d/1AGQ1cp7iqhJumVtx8g7HOW7nkT_BD7Aa/view?usp=drive_link",imglog:"잘 작동하는 걸 알 수 있음",sourceurl:""})//이미지타이틀
 
 d2.set_content("테스트케이스를 작성합니다.")
-d2.set_img(0,{imgtitle:"작성된 테스트 케이스",imgurl:"https://drive.google.com/file/d/1vytIDxxINLvKOA61WVjzisNtdRZRKnhj/view?usp=drive_link",imglog:"ID와 PW길이테스트",sourceurl:"https://docs.google.com/document/d/17nmiPy2q9AgqICuvoQezRKDUEO8qfIZlJyBHWrBSETU/edit?usp=drive_link"})//이미지타이틀
+d2.set_img(1,{imgtitle:"작성된 테스트 케이스",imgurl:"https://drive.google.com/file/d/1vytIDxxINLvKOA61WVjzisNtdRZRKnhj/view?usp=drive_link",imglog:"ID와 PW길이테스트",sourceurl:"https://docs.google.com/document/d/17nmiPy2q9AgqICuvoQezRKDUEO8qfIZlJyBHWrBSETU/edit?usp=drive_link"})//이미지타이틀
 
 d2.set_content("단위테스트를 작성합니다.")
-d2.set_img(0,{imgtitle:"단위 테스트",imgurl:"https://drive.google.com/file/d/1yQUpGasMOeQct2T2hRlgDoxsVh1jubHK/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/test/java/com/itg/examp/test/MemberServiceTests.java"})//이미지타이틀
-d2.set_img(0,{imgtitle:"단위 테스트 결과",imgurl:"https://drive.google.com/file/d/1bUmgpOgsIrWcIJw3no08AxoYKSbAIavw/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d2.set_img(2,{imgtitle:"단위 테스트",imgurl:"https://drive.google.com/file/d/1yQUpGasMOeQct2T2hRlgDoxsVh1jubHK/view?usp=drive_link",imglog:"",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/test/java/com/itg/examp/test/MemberServiceTests.java"})//이미지타이틀
+d2.set_img(2,{imgtitle:"단위 테스트 결과",imgurl:"https://drive.google.com/file/d/1bUmgpOgsIrWcIJw3no08AxoYKSbAIavw/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
 
 d2.set_content("테스트 결과 보고서")
-d2.set_img(0,{imgtitle:"테스트 결과 보고서1",imgurl:"https://drive.google.com/file/d/14-j-Mc1iLHR8Gv7RVkOkfVSs7dOFHR5N/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
-d2.set_img(0,{imgtitle:"테스트 결과 보고서2",imgurl:"https://drive.google.com/file/d/1cl7TXzbi2KVVTLe2Iy8hIG2lG5VGwf2v/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d2.set_img(3,{imgtitle:"테스트 결과 보고서1",imgurl:"https://drive.google.com/file/d/14-j-Mc1iLHR8Gv7RVkOkfVSs7dOFHR5N/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
+d2.set_img(3,{imgtitle:"테스트 결과 보고서2",imgurl:"https://drive.google.com/file/d/1cl7TXzbi2KVVTLe2Iy8hIG2lG5VGwf2v/view?usp=drive_link",imglog:"",sourceurl:""})//이미지타이틀
 
 
 d2.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
@@ -82,30 +82,25 @@ data_sets.push(d2)
 // menu3 =============================================================
 let d3 = new DataSet("서버프로그램구현")//메인타이틀
 d3.set_content("회원가입구현")//서브타이틀
-
-
-
+d3.set_img(0,{imgtitle:"메인 화면",imgurl:"https://drive.google.com/file/d/14aYIqhCyyHyDImtcB8yx2j8NBywN_L5_/view?usp=drive_link",imglog:"회원가입 버튼 누르고 들어간다",sourceurl:""})//이미지타이틀
+d3.set_img(0,{imgtitle:"회원가입페이지",imgurl:"https://drive.google.com/file/d/1n47ZajfnNAXsDHFRRTjB4m6b7s3XTtZU/view?usp=drive_link",imglog:"아이디와 비밀번호를 입력",sourceurl:""})//이미지타이틀
+d3.set_img(0,{imgtitle:"입력 정보 받아 검증해야함",imgurl:"https://drive.google.com/file/d/15-8gSgjuk-nQnw1Sx6MbleLOC-rCwj4V/view?usp=drive_link",imglog:"아이디와 비밀번호를 입력",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberController.java"})//이미지타이틀
+d3.set_img(0,{imgtitle:"아이디 비밀번호검증",imgurl:"https://drive.google.com/file/d/1Xm0s41cdA7C-_EN7wPkjHlVB9qT6r75e/view?usp=drive_link",imglog:"아이디와 비밀번호를 입력",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberService.java"})//이미지타이틀
+d3.set_img(0,{imgtitle:"검증 완료",imgurl:"https://drive.google.com/file/d/1t9Vy9q3W-emvCn93ICNvTjU5JyLyrXkC/view?usp=drive_link",imglog:"검증이 완료되면 true리턴",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberService.java"})//이미지타이틀
+d3.set_img(0,{imgtitle:"회원가입완료",imgurl:"https://drive.google.com/file/d/16qHnrn95ev2RCSJyAAuEvt8Yt3aY7QPO/view?usp=drive_link",imglog:"회원가입 완료 문자를 받아오면 회원가입 성공 메세지 출력",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})//이미지타이틀
+d3.set_img(0,{imgtitle:"실제회원가입",imgurl:"https://drive.google.com/file/d/1QWi-UZTakT6ED85nvm2GVTLbsACIxI_T/view?usp=drive_link",imglog:"정보 입력을 통해 회원가입 성공",sourceurl:""})//이미지타이틀
 
 
 d3.set_content("회원로그인구현")
 
 
 
-d3.set_content("회원리스트연동")
+d3.set_content("회원로그아웃구현")
 
 
 
 
-d3.set_content("테스트케이스 작성")
-
-
-
-
-d3.set_content("목오브젝트생성 및 테스트 구현")
-
-
-
-d3.set_content("결과보고서 작성")
+d3.set_content("회원리스트출력구현")
 
 
 
@@ -119,5 +114,5 @@ d4.set_content("배치스케줄구현")//서브타이틀
 
 d4.set_content("배치프로그램테스트 구현")
 
-d3.set_fill("사용자와 프로그램간에 인터렉티브한 로그인 세션 설정")//사용자 에필로그
+
 data_sets.push(d4)

@@ -92,7 +92,11 @@ d3.set_img(0,{imgtitle:"실제회원가입",imgurl:"https://drive.google.com/fil
 
 
 d3.set_content("회원로그인구현")
-
+d3.set_img(1,{imgtitle:"로그인 페이지",imgurl:"https://drive.google.com/file/d/1Mm-IjqwqpCUU3AP-Ob7rPE7pIeJNPFo6/view?usp=drive_link",imglog:"로그인 정보 입력",sourceurl:""})//이미지타이틀
+d3.set_img(1,{imgtitle:"로그인 요청",imgurl:"https://drive.google.com/file/d/1vAiCF5OXcbSbtts0W2_DAiA40NamCKjb/view?usp=drive_link",imglog:"아이디 비밀번로 입력받아 요청",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
+d3.set_img(1,{imgtitle:"서버에 로그인 요청",imgurl:"https://drive.google.com/file/d/1Yf4TPd1kxsslIQk_QzbCM-17VeB4W1DU/view?usp=drive_link",imglog:"DB서버에 로그인 요청",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/common.js"})//이미지타이틀
+d3.set_img(1,{imgtitle:"로그인 완료",imgurl:"https://drive.google.com/file/d/1cXVG99LjD-3RhJ5ipKKITKI5tVzjMI3j/view?usp=drive_link",imglog:"로그인 성공 문자 받아오면 로그인 성공",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
+d3.set_img(0,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d/1V8vpGPBZ1A1Hw1srg0KxNwl1zznxpgT2/view?usp=drive_link",imglog:"로그인 성공",sourceurl:""})//이미지타이틀
 
 
 d3.set_content("회원로그아웃구현")

@@ -90,7 +90,7 @@ d3.set_img(1,{imgtitle:"로그인 요청",imgurl:"https://drive.google.com/file/
 d3.set_img(2,{imgtitle:"mapper",imgurl:"https://drive.google.com/file/d/1WzF0sFlSHgCGHeNxRmSoLtdhRcLMN_Yk/view?usp=drive_link",imglog:"로그인 요청 시 DB와 통신하기 위한 Mapper 설정 파일",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/config/memberMapper.xml"})//이미지타이틀
 d3.set_img(1,{imgtitle:"서버에 로그인 요청",imgurl:"https://drive.google.com/file/d/1Yf4TPd1kxsslIQk_QzbCM-17VeB4W1DU/view?usp=drive_link",imglog:"클라이언트에서 서버로 로그인 요청이 전송되며, 데이터베이스와 검증 작업을 수행",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/common.js"})//이미지타이틀
 d3.set_img(1,{imgtitle:"로그인 완료",imgurl:"https://drive.google.com/file/d/1cXVG99LjD-3RhJ5ipKKITKI5tVzjMI3j/view?usp=drive_link",imglog:"로그인 요청이 성공하면 사용자에게 로그인 성공 메시지를 반환",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/index.html"})//이미지타이틀
-d3.set_img(0,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d/1V8vpGPBZ1A1Hw1srg0KxNwl1zznxpgT2/view?usp=drive_link",imglog:"로그인 성공",sourceurl:""})//이미지타이틀
+d3.set_img(1,{imgtitle:"실제로그인",imgurl:"https://drive.google.com/file/d/1V8vpGPBZ1A1Hw1srg0KxNwl1zznxpgT2/view?usp=drive_link",imglog:"로그인 성공",sourceurl:""})//이미지타이틀
 
 
 d3.set_content("회원로그아웃구현")

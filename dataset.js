@@ -80,9 +80,8 @@ d3.set_img(0,{imgtitle:"입력 정보 받아 검증해야함",imgurl:"https://dr
 d3.set_img(0,{imgtitle:"아이디 비밀번호검증",imgurl:"https://drive.google.com/file/d/1Xm0s41cdA7C-_EN7wPkjHlVB9qT6r75e/view?usp=drive_link",imglog:"아이디와 비밀번호가 조건에 맞는지 검증 로직 수행",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberService.java"})//이미지타이틀
 d3.set_img(0,{imgtitle:"검증 완료",imgurl:"https://drive.google.com/file/d/1t9Vy9q3W-emvCn93ICNvTjU5JyLyrXkC/view?usp=drive_link",imglog:"검증이 완료되면 true를 반환",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/java/com/itg/examp/MemberService.java"})//이미지타이틀
 d3.set_img(0,{imgtitle:"회원가입완료",imgurl:"https://drive.google.com/file/d/16qHnrn95ev2RCSJyAAuEvt8Yt3aY7QPO/view?usp=drive_link",imglog:"회원가입 완료 문자를 받아오면 회원가입 성공 메세지 출력",sourceurl:"https://github.com/minpyo1/loginsystem/blob/main/LoginSystem/src/main/resources/static/signup.html"})//이미지타이틀
-d3.set_img(0,{imgtitle:"회원정보 테이블에 데이터 저장",imgurl:"https://drive.google.com/file/d/1LB8SiMWBHL7lgFrm417KKpD6yPd2U5oI/view?usp=drive_link",imglog:" 회원정보 테이블에 저장된 데이터를 확인",sourceurl:""})//이미지타이틀
 d3.set_img(0,{imgtitle:"실제회원가입",imgurl:"https://drive.google.com/file/d/1FHdMJKBEZaL1wEcKMZPSXTEY9HWiQ3Km/view?usp=drive_link",imglog:"사용자가 입력한 정보를 기반으로 데이터베이스에 회원 정보를 저장하고 회원가입을 성공적으로 완료",sourceurl:""})//이미지타이틀
-
+d3.set_img(0,{imgtitle:"회원정보 테이블에 데이터 저장",imgurl:"https://drive.google.com/file/d/1LB8SiMWBHL7lgFrm417KKpD6yPd2U5oI/view?usp=drive_link",imglog:" 회원정보 테이블에 저장된 데이터를 확인",sourceurl:""})//이미지타이틀
 
 d3.set_content("회원로그인구현")
 d3.set_img(1,{imgtitle:"로그인 페이지",imgurl:"https://drive.google.com/file/d/1olkbBo9hRWcqGiZqUK4Fp6yCfJ4d8IkZ/view?usp=drive_link",imglog:"로그인 화면에서 아이디와 비밀번호를 입력",sourceurl:""})//이미지타이틀
